@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenalpyilmaz&show_icons=true&locale=en" alt="erenalpyilmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenalpyilmaz&" alt="erenalpyilmaz" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=ErenalpYilmaz&icon=0&color=0)](https://visitcount.itsvg.in)
