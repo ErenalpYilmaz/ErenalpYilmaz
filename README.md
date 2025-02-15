@@ -1,34 +1,22 @@
-# Erenalp Yılmaz
+<h1 align="center">Hi 👋, I'm Erenalp Yılmaz</h1>
+<h3 align="center">Merhaba! Ben Erenalp Yılmaz. Bir startup şirketinde İş Geliştirme ve İletişim Lideri olarak çalışıyor ve aynı zamanda veri analisti olarak görev alıyorum. Python geliştirme alanında uzmanlaşarak, veri bilimi ve web teknolojileri üzerine çalışmalar yapıyorum. İş fırsatlarına açığım ve her geçen gün yeteneklerimi geliştirmeye devam ediyorum.</h3>
 
-## 🚀 İş Geliştirme & İletişim Lideri | Veri Analisti | Python Geliştiricisi
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/erenalpylmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenalpylmaz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/28878753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28878753" height="30" width="40" /></a>
+<a href="https://kaggle.com/erenalpylmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erenalpylmaz" height="30" width="40" /></a>
+<a href="https://medium.com/@erenalpylmazofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erenalpylmazofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/veriylehikayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="veriylehikayem" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/erenalpyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erenalpyilmaz" height="30" width="40" /></a>
+</p>
 
-Merhaba! Ben **Eren Alp Yılmaz**. Bir startup şirketinde **İş Geliştirme ve İletişim Lideri** olarak çalışıyor ve aynı zamanda **veri analisti** olarak görev alıyorum. Python geliştirme alanında uzmanlaşarak, veri bilimi ve web teknolojileri üzerine çalışmalar yapıyorum. İş fırsatlarına açığım ve her geçen gün yeteneklerimi geliştirmeye devam ediyorum.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenalpyilmaz&show_icons=true&locale=en&layout=compact" alt="erenalpyilmaz" /></p>
 
-## 🔧 Teknik Beceriler
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenalpyilmaz&show_icons=true&locale=en" alt="erenalpyilmaz" /></p>
 
-### 📌 Programlama Dilleri & Teknolojiler
-- **Python** 🐍
-- **Web Geliştirme:** Django
-- **Veri Analizi & İşleme:** Pandas, Numpy
-- **Veri Görselleştirme:** Matplotlib, Seaborn
-- **Diğer:** Git & GitHub, VSCode, Jupyter Notebook, Excel
-
----
-
-## 📈 Kariyer Hedefleri
-
-- **Python geliştirme alanında derinlemesine uzmanlaşmak**
-- **Veri bilimi ve makine öğrenmesi konularında kendimi geliştirmek**
-- **Yeni teknolojileri keşfetmek ve açık kaynak projelere katkıda bulunmak**
-- **İş geliştirme ve veri analizi alanında güçlü çözümler üretmek**
-
----
-
-## 📫 Bana Ulaşın
-- 🔗 **LinkedIn:** [Erenalp Yılmaz](https://www.linkedin.com/in/erenalpylmaz)
-- 📺 **YouTube:** [Veriyle Hikayem](https://www.youtube.com/@veriylehikayem)
-- 💻 **GitHub:** [ErenalpYilmaz](https://github.com/ErenalpYilmaz)
-
-Teknoloji, iş geliştirme ve veri analizi hakkında fikir alışverişinde bulunmak isterseniz, benimle iletişime geçebilirsiniz! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenalpyilmaz&" alt="erenalpyilmaz" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenalpyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="erenalpyilmaz" /> </p>
