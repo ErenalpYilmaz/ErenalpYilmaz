@@ -1,25 +1,34 @@
-<h1 align="center">Hi 👋, I'm Erenalp Yılmaz</h1>
-<h3 align="center">I am a hardworking data scientist and business developer in Turkey.</h3>
+# Eren Alp Yılmaz
 
-- 🔭 I’m currently working on **Python**
+## 🚀 İş Geliştirme & İletişim Lideri | Veri Analisti | Python Geliştiricisi
 
-- 💬 Ask me about **Data Science**
+Merhaba! Ben **Eren Alp Yılmaz**. Bir startup şirketinde **İş Geliştirme ve İletişim Lideri** olarak çalışıyor ve aynı zamanda **veri analisti** olarak görev alıyorum. Python geliştirme alanında uzmanlaşarak, veri bilimi ve web teknolojileri üzerine çalışmalar yapıyorum. İş fırsatlarına açığım ve her geçen gün yeteneklerimi geliştirmeye devam ediyorum.
 
-- 📫 How to reach me **erenalpylmazofficial@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erenalpylmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenalpylmaz" height="30" width="40" /></a>
-<a href="https://kaggle.com/erenalpylmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erenalpylmaz" height="30" width="40" /></a>
-</p>
+## 🔧 Teknik Beceriler
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📌 Programlama Dilleri & Teknolojiler
+- **Python** 🐍
+- **Web Geliştirme:** Django
+- **Veri Analizi & İşleme:** Pandas, Numpy
+- **Veri Görselleştirme:** Matplotlib, Seaborn
+- **Diğer:** Git & GitHub, VSCode, Jupyter Notebook, Excel
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenalpyilmaz&show_icons=true&locale=en&layout=compact" alt="erenalpyilmaz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenalpyilmaz&show_icons=true&locale=en" alt="erenalpyilmaz" /></p>
+## 📈 Kariyer Hedefleri
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenalpyilmaz&" alt="erenalpyilmaz" /></p>
+- **Python geliştirme alanında derinlemesine uzmanlaşmak**
+- **Veri bilimi ve makine öğrenmesi konularında kendimi geliştirmek**
+- **Yeni teknolojileri keşfetmek ve açık kaynak projelere katkıda bulunmak**
+- **İş geliştirme ve veri analizi alanında güçlü çözümler üretmek**
 
-[![](https://visitcount.itsvg.in/api?id=ErenalpYilmaz&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## 📫 Bana Ulaşın
+- 🔗 **LinkedIn:** [Eren Alp Yılmaz](https://www.linkedin.com/in/erenalpylmaz)
+- 📺 **YouTube:** [Veriyle Hikayem](https://www.youtube.com/@veriylehikayem)
+- 💻 **GitHub:** [ErenalpYilmaz](https://github.com/ErenalpYilmaz)
+
+Teknoloji, iş geliştirme ve veri analizi hakkında fikir alışverişinde bulunmak isterseniz, benimle iletişime geçebilirsiniz! 🚀
