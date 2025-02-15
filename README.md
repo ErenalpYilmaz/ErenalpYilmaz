@@ -20,12 +20,18 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ErenalpYilmaz&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ErenalpYilmaz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErenalpYilmaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenalpYilmaz&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
+</p>
+
+
 
 
 ![snake gif](https://github.com/ErenalpYilmaz/ErenalpYilmaz/blob/output/github-snake-dark.svg)
