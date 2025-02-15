@@ -2,12 +2,6 @@
 
 # 💫 About Me:
 Merhaba! Ben Erenalp Yılmaz. Bir startup şirketinde İş Geliştirme ve İletişim Lideri olarak çalışıyor ve aynı zamanda veri analisti olarak görev alıyorum. Python geliştirme alanında uzmanlaşarak, veri bilimi ve web teknolojileri üzerine çalışmalar yapıyorum. İş fırsatlarına açığım ve her geçen gün yeteneklerimi geliştirmeye devam ediyorum.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erenalpylmaz) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@erenalpylmazofficial) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28878753) 
-
 </div>
 <div align="center">
 
