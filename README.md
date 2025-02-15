@@ -1,10 +1,3 @@
-<div align="center">
-
-# 💫 About Me:
-Merhaba! Ben Erenalp Yılmaz. Bir startup şirketinde İş Geliştirme ve İletişim Lideri olarak çalışıyor ve aynı zamanda veri analisti olarak görev alıyorum. Python geliştirme alanında uzmanlaşarak, veri bilimi ve web teknolojileri üzerine çalışmalar yapıyorum. İş fırsatlarına açığım ve her geçen gün yeteneklerimi geliştirmeye devam ediyorum.
-</div>
-<div align="center">
-
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
