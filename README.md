@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenalpyilmaz&" alt="erenalpyilmaz" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenalpyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="erenalpyilmaz" /> </p>
+
+![snake gif](https://github.com/ErenalpYilmaz/ErenalpYilmaz/blob/output/github-snake-dark.svg)
