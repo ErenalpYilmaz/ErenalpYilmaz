@@ -1,4 +1,4 @@
-# Eren Alp Yılmaz
+# Erenalp Yılmaz
 
 ## 🚀 İş Geliştirme & İletişim Lideri | Veri Analisti | Python Geliştiricisi
 
@@ -27,7 +27,7 @@ Merhaba! Ben **Eren Alp Yılmaz**. Bir startup şirketinde **İş Geliştirme ve
 ---
 
 ## 📫 Bana Ulaşın
-- 🔗 **LinkedIn:** [Eren Alp Yılmaz](https://www.linkedin.com/in/erenalpylmaz)
+- 🔗 **LinkedIn:** [Erenalp Yılmaz](https://www.linkedin.com/in/erenalpylmaz)
 - 📺 **YouTube:** [Veriyle Hikayem](https://www.youtube.com/@veriylehikayem)
 - 💻 **GitHub:** [ErenalpYilmaz](https://github.com/ErenalpYilmaz)
 
