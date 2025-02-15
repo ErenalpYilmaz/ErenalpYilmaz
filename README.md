@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenalpYilmaz&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenalpYilmaz&theme=radical&hide_border=false" alt="GitHub Streak" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170px"/>
 </p>
 
 
