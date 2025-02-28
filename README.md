@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenalpyilmaz&theme=aura&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=aura&hide_border=true&layout=compact&v=1" alt="Top Languages" width="50%">
  </br>
 </div>
 
