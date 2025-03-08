@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
     <h1>📊 GitHub Stats</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=ErenalpYilmaz&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ErenalpYilmaz&theme=aura&hide_border=false" alt="GitHub Streak" width ="53%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"width ="46%">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ErenalpYilmaz&theme=aura&hide_border=true" alt="GitHub Streak" width ="54%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"width ="45%">
 </div>
