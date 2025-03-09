@@ -1,4 +1,9 @@
 <div align="center">
+    <h1>📊 GitHub Stats</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <br>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ErenalpYilmaz&theme=aura&hide_border=true" alt="GitHub Streak" width="54%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" width="45%">
     <h1>💻 Tech Stack</h1>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
@@ -17,9 +22,5 @@
     <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script">
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-    <h1>📊 GitHub Stats</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ErenalpYilmaz&theme=aura&hide_border=true" alt="GitHub Streak" width ="54%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenalpYilmaz&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"width ="45%">
+    <img src="https://github.com/ErenalpYilmaz/ErenalpYilmaz/blob/output/github-snake-dark.svg" alt="Snake Animation">
 </div>
