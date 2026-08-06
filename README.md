@@ -8,7 +8,7 @@
 
 <img align="right" width="32%" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding animation">
 
-Hi, I’m Erenalp — an entrepreneur and software developer building SaaS products.
+Hi, I’m Erenalp an entrepreneur and software developer building SaaS products.
 
 I mainly work with **C#**, **.NET**, and **Python**. I’m also interested in computer vision, data-driven applications, and the product side of software development.
 
