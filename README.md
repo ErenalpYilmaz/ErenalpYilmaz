@@ -1,37 +1,37 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=Erenalp%20Yilmaz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Entrepreneur%20%7C%20Software%20Developer%20%7C%20SaaS%20Builder&descSize=16&descAlignY=55&animation=fadeIn" alt="Erenalp Yilmaz">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=Erenalp%20Yilmaz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Business%20Analysis%20%7C%20Data%20%7C%20Software&descSize=16&descAlignY=55&animation=fadeIn" alt="Erenalp Yilmaz">
 
 </div>
 
-## About Me
+About Me
 
 <img align="right" width="32%" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding animation">
 
-Hi, I’m Erenalp an entrepreneur and software developer building SaaS products.
+Hi, I’m Erenalp, a Management Information Systems student at KTÜ with a background in computer programming.
 
-I mainly work with **C#**, **.NET**, and **Python**. I’m also interested in computer vision, data-driven applications, and the product side of software development.
+I’m interested in business analysis, data, and the product side of software. I work with Python, SQL, and Excel, and use AI tools to support my learning and projects.
 
-I enjoy taking an idea, turning it into a working product, and improving it through real-world use.
+I enjoy understanding how things work, making sense of user needs, and turning ideas into practical solutions.
 
 <br clear="right">
 
-## Technologies
+Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,opencv,git,github,vscode,powershell,bash&perline=9" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode&perline=9" alt="Python, PostgreSQL, Git, GitHub, VS Code">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Microsoft Excel">
+<img src="https://img.shields.io/badge/Cursor-111111?style=flat-square" alt="Cursor">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
 
 </div>
 
-## Contributions
+Contributions
 
 <div align="center">
 
